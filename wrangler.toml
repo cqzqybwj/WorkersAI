@@ -1,0 +1,4 @@
+name = "workersai"
+main = "index.js"
+[[ai]]
+binding = "AI" 
